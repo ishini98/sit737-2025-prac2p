@@ -1,3 +1,7 @@
-node_modules/ 
-.env 
-AppData/ 
+ 
+# Ignore system and IDE files
+AppData/
+node_modules/
+.DS_Store
+.env
+*.log

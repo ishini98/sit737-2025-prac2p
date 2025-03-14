@@ -1,10 +1,11 @@
 {
   "name": "sit737-2025-prac2p",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project demonstrates how to create a simple web server using Node.js and the Express framework. The server serves a basic HTML page at the root URL.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
